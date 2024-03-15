@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ski Tracking</string>
+
+    <string name="name_container_max_speed">Max Speed</string>
+    <string name="name_container_destination">Destination</string>
+    <string name="name_container_lat">Lat</string>
+    <string name="name_container_lon">Lon</string>
+
+
+    <string name="value_max_speed">0.0</string>
+    <string name="value_avg">0.0</string>
+    <string name="value_ascent">0.0</string>
+    <string name="value_total_destination">0.0</string>
+    <string name="value_lat">-----</string>
+    <string name="value_lon">-----</string>
+
+
+
+
+    <string name="mph">MPH</string>
+    <string name="kmh">Km/h</string>
+    <string name="mi">mi</string>
+    <string name="km">km</string>
+
+
+    <string name="name_avg">AVG</string>
+    <string name="name_ascent">ASCENT</string>
+    <string name="name_total">TOTAL</string>
+
+
+
+</resources>
